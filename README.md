@@ -1,11 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Yumemi
 - 🌱 I’m currently learning CFML
-- 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with Flutter 
-- 💬 Ask me about Nothing
-- 📫 How to reach me: No way
-- 😄 Pronouns: Xx0w0xX
 - ⚡ Fun fact: Mathematics
+
+![status](https://github-readme-stats.vercel.app/api?username=Xx0w0wxX&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
