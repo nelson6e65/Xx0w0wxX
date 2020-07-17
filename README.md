@@ -1,7 +1,7 @@
 ### Amas 👋
 
 <p align="center">
-  <img src="https://i.imgur.com/WNCS4sM.gif" width="27px">
+  <img src="https://i.imgur.com/WNCS4sM.gif"  width="400" height="180" >
   <br><br>
   <samp>
 An engineer from mathematics in Tokyo, Japan. <br>
