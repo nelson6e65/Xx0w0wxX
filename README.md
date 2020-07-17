@@ -7,7 +7,7 @@
 An engineer from mathematics in Tokyo, Japan. <br>
 I was into Machine Learning / Reinforcement Learning. <br>
 Now, Flutter / CFML
-     <br><br>Contact me on <a href="https://twitter.com/">Twitter</a>
+     <br><br>Contact me on <a href="https://twitter.com/">Twitter</a> or @cock.li
   </samp>
 </p>
 
