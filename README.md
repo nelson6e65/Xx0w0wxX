@@ -1,7 +1,7 @@
 ### Amas 👋
 
 <p align="center">
-  <img src="http://libertyinfinity.com/wp-content/uploads//2019/08/tumblr_pfpgmzg9MO1qz6f9yo5_500.gif"  width="400" height="180" >
+  <img src="http://libertyinfinity.com/wp-content/uploads//2018/02/tumblr_omq9zmsN281w84u17o1_500.gif"  width="400" height="180" >
   <br><br>
   <samp>
 An engineer from mathematics in Tokyo, Japan. <br>
@@ -9,7 +9,6 @@ I was into Machine Learning / Reinforcement Learning. <br>
 Now, Flutter / CFML
      <br><br>Contact me on <a href="https://twitter.com/">Twitter</a> or @cock.li
   </samp><br><br>
-  <img src="http://libertyinfinity.com/wp-content/uploads//2018/02/tumblr_omq9zmsN281w84u17o1_500.gif"  width="400" height="180" >
 </p>
 
 <!--
