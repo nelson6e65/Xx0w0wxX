@@ -7,9 +7,9 @@
 An engineer from mathematics in Tokyo, Japan. <br>
 I was into Machine Learning / Reinforcement Learning. <br>
 Now,  <br>
-    Flutter / CFML / DeepArt / Game Development <br><br>
-Extra interests are,  <br>
-    Competitive Programming / CTF /BugBounty
+    Flutter / CFML / Art / Game Development <br><br>
+extra interests are,  <br>
+    Competitive Programming / CTF
      <br><br>Contact me on xx0w0xx[at]cock.li
   </samp><br><br>
 </p>
