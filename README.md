@@ -1,4 +1,4 @@
-### Amas 👋
+# Amas 👋
 
 <p align="center">
 <samp>
@@ -16,16 +16,23 @@ Not CS, or relevant ones.  <br><br>
 <p align="left">
 <samp>
 However, now,  <br>
-    Flutter / CFML / Art / Game Development / Competitive Programming / CTF  <br><br>
+    Flutter / CFML / GameDev / Competitive Programming / CTF  <br><br>
 </samp><br><br>
 </p>
 
 
 <p align="center">
 <samp>
-     <br><br>Contact me on xx0w0xx[at]cock.li
+     Contact me on xx0w0xx[at]cock.li
 </samp><br><br>
 </p>
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
+
 
 <!--
 **surjithctly/surjithctly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
