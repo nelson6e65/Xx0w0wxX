@@ -1,17 +1,30 @@
 ### Amas 👋
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/2a/9d/2f/2a9d2fa59cb6e6794c4832d214134ca5.gif"  width="400" height="180" >
-  <br><br>
-  <samp>
-An engineer from mathematics in Tokyo, Japan. <br>
+<samp>
+An engineer from Mathematics in Tokyo, Japan. <br>
+</samp><br><br>
+</p>
+
+<p align="right">
+<samp>
 I was into Machine Learning / Reinforcement Learning. <br>
-Now,  <br>
-    Flutter / CFML / Art / Game Development <br><br>
-extra interests are,  <br>
-    Competitive Programming / CTF
+Not CS, or relevant ones.  <br><br>
+</samp><br><br>
+</p>
+
+<p align="left">
+<samp>
+However, now,  <br>
+    Flutter / CFML / Art / Game Development / Competitive Programming / CTF  <br><br>
+</samp><br><br>
+</p>
+
+
+<p align="center">
+<samp>
      <br><br>Contact me on xx0w0xx[at]cock.li
-  </samp><br><br>
+</samp><br><br>
 </p>
 
 <!--
