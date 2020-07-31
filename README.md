@@ -29,6 +29,9 @@ However, now,  <br>
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Setup CLI for mail](https://xx0w0wxx.github.io/tool/terminal-mail/)
+- [How to implement Neural Network](https://xx0w0wxx.github.io/machine-learning/mathematics/implement-neural-network/)
+- [How to Setup minimal-mistakes](https://xx0w0wxx.github.io/stuff/setup-minimal-mistakes/)
 <!-- BLOG-POST-LIST:END -->
 
 
