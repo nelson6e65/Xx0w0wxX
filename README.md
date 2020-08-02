@@ -27,6 +27,10 @@ However, now,  <br>
 </samp><br><br>
 </p>
 
+# Status
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [How to Integrate Any Feed into README](https://xx0w0wxx.github.io/stuff/readme-github-actions/)
