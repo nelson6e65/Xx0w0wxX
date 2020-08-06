@@ -36,6 +36,7 @@ No Activity tracked this Week
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to bypass Root-detection](https://xx0w0wxx.github.io/security/frida-uncrackable-1/)
 - [How to Integrate Any Feed into README](https://xx0w0wxx.github.io/stuff/readme-github-actions/)
 - [How to Setup CLI for mail](https://xx0w0wxx.github.io/tool/terminal-mail/)
 - [How to implement Neural Network](https://xx0w0wxx.github.io/machine-learning/mathematics/implement-neural-network/)
